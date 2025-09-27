@@ -3,7 +3,6 @@ import java.util.*;
 public class Main {
     static Scanner sc = new Scanner(System.in);
 
-    // Interactive comparison: returns true if char1 < char2
     static boolean ask(char char1, char char2) {
         System.out.println("? " + char1 + " " + char2);
         System.out.flush();
