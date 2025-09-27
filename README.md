@@ -8,7 +8,7 @@
 
 2. **Beginner Contest**
 
-   1. [425 Company: Unique Vision](./beginner/425) (A-G)
+   1. [425 Company: Unique Vision](./beginner/425) (A-E & G)
 
 ---
 
