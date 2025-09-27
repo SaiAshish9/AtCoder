@@ -8,7 +8,7 @@
 
 2. **Beginner Contest**
 
-   1. [425 Company: Unique Vision](./beginner/425) (A-E & G (TLE)) (AIR 15 / 699 out of 8.6K)
+   1. [425 Company: Unique Vision](./beginner/425) (A-E & G (TLE)) (AIR 15 (Global 699) out of 8.6K)
 
 ---
 
