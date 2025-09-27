@@ -1,4 +1,4 @@
-## 📂 Contents (6 A-D+ problems, 1 contests)
+## 📂 Contents (6 A-D+ problems, 2 contests)
 
 1. **Practice Contest**
     
