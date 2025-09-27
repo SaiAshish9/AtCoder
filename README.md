@@ -1,8 +1,8 @@
-## 📂 Contents (1 A-D+ problems, 1 contests)
+## 📂 Contents (6 A-D+ problems, 1 contests)
 
 1. **Practice Contest**
     
-    1. [A-B Q]()
+    1. [A-B Q](./practice/)
 
 2. **Beginner Contest**
 
