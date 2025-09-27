@@ -1,5 +1,7 @@
 ## 📂 Contents (6 A-D+ problems, 2 contests)
 
+---
+
 1. **Practice Contest**
     
     1. [A-B Q](./practice/)
@@ -7,6 +9,8 @@
 2. **Beginner Contest**
 
    1. [425 Company: Unique Vision](./beginner/425)
+
+---
 
 <img width="434" height="711" alt="Screenshot 2025-09-22 at 9 21 26 AM" src="https://github.com/user-attachments/assets/c140f9b3-3a63-468e-a510-d25e4e0bb21e" />
 <img width="418" height="664" alt="Screenshot 2025-09-22 at 9 21 54 AM" src="https://github.com/user-attachments/assets/bda841e2-dce9-402b-b7cb-515861e1c947" />
