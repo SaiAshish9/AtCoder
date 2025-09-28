@@ -10,6 +10,11 @@
 
    1. [425 Company: Unique Vision](./beginner/425) (A-E & G (TLE)) (AIR 15 (Global 699) out of 8.6K)
 
+3. **Grand Contest**
+
+   1. [073](./grand/073/)
+
+
 ---
 
 <img width="434" height="711" alt="Screenshot 2025-09-22 at 9 21 26 AM" src="https://github.com/user-attachments/assets/c140f9b3-3a63-468e-a510-d25e4e0bb21e" />
