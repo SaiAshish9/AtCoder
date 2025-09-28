@@ -1,4 +1,4 @@
-## 📂 Contents (7 A-D+ problems, 2 contests)
+## 📂 Contents (13 A-D+ problems, 3 contests)
 
 ---
 
@@ -13,6 +13,10 @@
 3. **Grand Contest**
 
    1. [073](./grand/073/)
+
+4. **Heuristic Contest**
+
+   1. [054](./heuristic/054/)
 
 
 ---
