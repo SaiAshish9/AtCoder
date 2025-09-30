@@ -18,7 +18,6 @@
 
    1. [054](./heuristic/054/)
 
-
 ---
 
 <img width="434" height="711" alt="Screenshot 2025-09-22 at 9 21 26 AM" src="https://github.com/user-attachments/assets/c140f9b3-3a63-468e-a510-d25e4e0bb21e" />
