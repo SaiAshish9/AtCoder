@@ -1,0 +1,24 @@
+// my bits/stdc++.h replacement
+#include <iostream>
+#include <vector>
+#include <algorithm>
+#include <map>
+#include <set>
+#include <unordered_map>
+#include <unordered_set>
+#include <string>
+#include <cmath>
+#include <numeric>
+#include <queue>
+#include <stack>
+#include <deque>
+#include <list>
+#include <bitset>
+#include <tuple>
+#include <limits>
+#include <iomanip>
+#include <sstream>
+#include <functional>
+#include <random>
+#include <type_traits>
+#include <cassert>
