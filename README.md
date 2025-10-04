@@ -9,6 +9,7 @@
 2. **Beginner Contest**
 
    1. [425 Company: Unique Vision](./beginner/425) (A-E & G (TLE)) (All India Rank (AIR) 15 (Global 699), All India Top 0.15% (1500/10000) out of 10K+ global contestants)
+   2. [426](./beginner/426/) (A-E, All India Rank (AIR) 69, All India Top 0.53% (6900/13000) out of 13K global contestants)
 
 3. **Grand Contest**
 
