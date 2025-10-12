@@ -10,7 +10,7 @@
 
    1. [425 Company: Unique Vision](./beginner/425) (A-E & G (TLE)) (All India Rank (AIR) 15 (Global 699), All India Top 0.15% (1500/10000) out of 10K+ global contestants)
    2. [426](./beginner/426/) (A-E, All India Rank (AIR) 69, All India Top 0.53% (6900/13000) out of 13K global contestants)
-   3. [427 Company: Panasonic](./beginner/427/) (A-F, All India Rank (AIR) 4 (Global 82, 0.68%), All India Top 0.03% (400/12000) out of 12K global contestants)
+   3. [427 Company: Panasonic](./beginner/427/) (A-F, All India Rank (AIR) 4 (Global 78, 0.65%), All India Top 0.03% (400/12000) out of 12K global contestants)
 
 3. **Grand Contest**
 
