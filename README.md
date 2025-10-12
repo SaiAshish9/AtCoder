@@ -3,8 +3,8 @@
 ---
 
 1. **Practice Contest**
-    
-    1. [A-B Q](./practice/)
+
+   1. [A-B Q](./practice/)
 
 2. **Beginner Contest**
 
@@ -12,11 +12,15 @@
    2. [426](./beginner/426/) (A-E, All India Rank (AIR) 69, All India Top 0.53% (6900/13000) out of 13K global contestants)
    3. [427 Company: Panasonic](./beginner/427/) (A-F, All India Rank (AIR) 4 (Global 78, 0.65%), All India Top 0.03% (400/12000) out of 12K global contestants)
 
-3. **Grand Contest**
+3. **Regular Contest**
+
+   1. [208](./regular/208/) (A-E)
+
+4. **Grand Contest**
 
    1. [073](./grand/073/)
 
-4. **Heuristic Contest**
+5. **Heuristic Contest**
 
    1. [054](./heuristic/054/)
 
