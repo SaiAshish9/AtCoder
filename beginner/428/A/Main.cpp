@@ -23,4 +23,6 @@ int main() {
 
     total_distance += distance_in_partial_cycle;
     cout << total_distance << endl;
+
+    return 0;
 }
