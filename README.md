@@ -1,4 +1,4 @@
-## 📂 Contents (24 A-D+ problems, 5 contests)
+## 📂 Contents (22 A-D+ problems, 5 contests)
 
 ---
 
@@ -15,7 +15,7 @@
 
 3. **Regular Contest**
 
-   1. [208](./regular/208/) (A-E)
+   1. [208](./regular/208/) (A-C)
 
 4. **Grand Contest**
 
