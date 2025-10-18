@@ -3,7 +3,10 @@
 
 using namespace std;
 
-void solve() {
+int main() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(nullptr);
+
     long long S, A, B, X; 
     if (!(cin >> S >> A >> B >> X)) {
         return;
@@ -20,13 +23,4 @@ void solve() {
 
     total_distance += distance_in_partial_cycle;
     cout << total_distance << endl;
-}
-
-int main() {
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-
-    solve();
-
-    return 0;
 }
