@@ -9,7 +9,7 @@ int main() {
 
     long long S, A, B, X; 
     if (!(cin >> S >> A >> B >> X)) {
-        return;
+        return 0;
     }
 
     long long cycle_time = A + B;
