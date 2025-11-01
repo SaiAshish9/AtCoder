@@ -12,7 +12,7 @@
    2. [426](./beginner/426/) (A-E, All India Rank (AIR) 69, All India Top 0.53% (6900/13000) out of 13K global contestants)
    3. [427 Company: Panasonic](./beginner/427/) (A-F, All India Rank (AIR) 4 (Global 78, 0.65%), All India Top 0.03% (400/12000) out of 12K global contestants)
    4. [428](./beginner/428/) (A-E, All India Rank (AIR) 6 (Global 78, 0.65%), All India Top 0.05% (400/12000) out of 12K global contestants)
-   5. [430](./beginner/430/) (A-F, All India Rank (AIR) 6 (Global 78, 0.00%), All India Top 0.05% (400/10000) out of 10K global contestants)
+   5. [430](./beginner/430/) (A-F, All India Rank (AIR) 7 (Global 176, 1.76%), All India Top 0.07% (176/10000) out of 10K global contestants)
 
 3. **Regular Contest**
 
