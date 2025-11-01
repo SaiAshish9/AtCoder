@@ -2,18 +2,18 @@
 
 using namespace std;
 
-int main() {
+int main()
+{
     int A, B, C, D;
-    
-    if (!(cin >> A >> B >> C >> D)) {
-        return 1; 
-    }
 
-    if (C >= A && D < B) {
+    cin >> A >> B >> C >> D;
+
+    if (C >= A && D < B)
+    {
         cout << "Yes" << endl;
-    } else {
+    }
+    else
+    {
         cout << "No" << endl;
     }
-
-    return 0;
 }
