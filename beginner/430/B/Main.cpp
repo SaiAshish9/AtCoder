@@ -6,8 +6,8 @@
 using namespace std;
 
 int main() {
-    ios_base::sync_with_stdio(false);
-    cin.tie(nullptr);
+    ios_base::sync_with_stdio(0);
+    cin.tie(0);
 
     int N, M;
     if (!(cin >> N >> M)) return 0;
