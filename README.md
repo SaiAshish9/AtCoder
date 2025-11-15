@@ -13,7 +13,7 @@
    3. [427 Company: Panasonic](./beginner/427/) (A-F, All India Rank (AIR) 4 (Global 78, 0.65%), All India Top 0.03% (400/12000) out of 12K global contestants)
    4. [428](./beginner/428/) (A-E, All India Rank (AIR) 6 (Global 78, 0.65%), All India Top 0.05% (400/12000) out of 12K global contestants)
    5. [430](./beginner/430/) (A-F, All India Rank (AIR) 7 (Global 176, 1.76%), All India Top 0.07% (176/10000) out of 10K global contestants)
-   6. [432 Company: OMRON Corporation](./beginner/432) (A-E & G, All India Rank (AIR) 5 (Global 111/11000, 1.009%), All India Top 0.045% (176/12000) out of 12K global contestants)
+   6. [432 Company: OMRON Corporation](./beginner/432) (A-E & G, All India Rank (AIR) 5 (Global 113/11000, 1.009%), All India Top 0.045% (176/12000) out of 12K global contestants)
 
 3. **Regular Contest**
 
