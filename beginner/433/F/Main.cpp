@@ -21,8 +21,9 @@ int main()
     ios::sync_with_stdio(0);
     cin.tie(0);
     string s;
-    if (!(cin >> s))
-        return 0;
+    // if (!(cin >> s))
+    //     return 0;
+    cin >> s;
     int n = (int)s.size();
     vector<int64> fact(n + 5), ifact(n + 5);
     fact[0] = 1;
