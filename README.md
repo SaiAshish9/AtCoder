@@ -1,4 +1,4 @@
-## 📂 Contents (41 A-D+ problems, 8 contests)
+## 📂 Contents (47 A-D+ problems, 9 contests)
 
 ---
 
@@ -16,6 +16,7 @@
    6. [432 Company: OMRON Corporation](./beginner/432) (A-E & G, All India Rank (AIR) 5 (Global 113/11000, 1.02%), All India Top 0.045% (176/12000) out of 12K global contestants)
    7. [433](./beginner/433/) (A-G, All India Rank (AIR) 2 (Global 6, 0.05%), All India Top 0.016% (6/12000) out of 10K global contestants)
    8. [434](./beginner/434)
+   9. [435](./beginner/435)
 
 3. **Regular Contest**
 
